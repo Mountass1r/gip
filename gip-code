@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html {
+height: 100%;
+}
+body { background-image: linear-gradient(to right, green, brown, orange, blue); }
+</style>
+</head>
+<body>
+
+<div class="bg"></div>
+
+</head>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body text="#ffffff" link="#ff0000" vlink="#ff0000" alink="#ff0000">
+
+
+<h1>Fridge Organizer</h1>
+
+<table style="width:100%">
+  <tr>
+    <th>PRODUCTNAAM</th>
+    <th>CALORIÊN</th>
+    <th>PRIJS</th>
+    <th>AANTAL</th>
+    <th>BARCODE</th>	
+  </tr>
+
+  <tr>
+    <td>Caprisun</td>
+    <td>60</td>
+    <td>€0.50</td>
+    <td> 
+        <select id="select1">
+            <option value="1">1</option>
+	    <option value="2">2</option>
+	    <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+    </p></td>
+	<td>04000177158326</td>
+  </tr>
+  
+<tr>
+    <td>Red Velvet </td>
+    <td>80</td>
+    <td>€2.50</td>
+    <td> 
+        <select id="select1">
+            <option value="1">1</option>
+	    <option value="2">2</option>
+	    <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+    </p></td>
+	<td>0044000044541</td>
+  </tr>
+  
+  <tr>
+    <td>Coca Cola Zero</td>
+    <td>2</td>
+    <td>€0.80</td>
+    <td> 
+        <select id="select1">
+            <option value="1">1</option>
+	    <option value="2">2</option>
+	    <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+    </p></td>
+	<td>5449000131805</td>
+  </tr>
+  
+  <tr>
+    <td>Milka Oreo</td>
+    <td>560</td>
+    <td>€1.00</td>
+    <td> 
+        <select id="select1">
+            <option value="1">1</option>
+	    <option value="2">2</option>
+	    <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+    </p></td>    
+	<td>7622210194046</td>
+  </tr>
+  
+  <tr>
+    <td>Fanta</td>
+    <td>50</td>
+    <td>€1.10</td>
+    <td> 
+        <select id="select1">
+            <option value="1">1</option>
+	    <option value="2">2</option>
+	    <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+    </p></td>     
+	<td>5449000011527 </td>
+  </tr>
+  
+  <tr>
+    <td>Oreo Cheesecake</td>
+    <td>275</td>
+    <td>€1.10</td>
+    <td> 
+        <select id="select1">
+            <option value="1">1</option>
+	    <option value="2">2</option>
+	    <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+    </p></td>     
+	<td>5412949096757</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
